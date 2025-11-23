@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 - 💻 Developer focused on writing clean and efficient code  
-- 🌱 Currently learning: **[your tech here]**  
+- 🌱 Currently learning: **Java Scripts**  
 - 🔥 I enjoy creating projects that solve real problems or simply inspire me  
 - 🧪 Always experimenting with new technologies  
 
